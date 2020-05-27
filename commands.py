@@ -18,7 +18,7 @@ class Commander:
 			else:
 				self.respond("My name is python commander. How are you?")
 	
-		# Open app from cmd prompt
+		# Open app from cmd prompt, used before web search added
 		# elif "open" in text or "launch" or "start" in text: 
 			# app = text.split(" ", 1)[-1]
 			# self.respond("Opening " + app)
